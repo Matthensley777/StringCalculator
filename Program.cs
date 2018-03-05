@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NUnit.Framework;
 
 namespace StringCalculator
 {
@@ -10,6 +11,11 @@ namespace StringCalculator
     {
         static void Main(string[] args)
         {
+            //public int CalculatorString { get; set; }
+
+
         }
     }
 }
+
+

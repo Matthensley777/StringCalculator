@@ -1,0 +1,9 @@
+C:\Users\developer\Desktop\workspace\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe.config
+C:\Users\developer\Desktop\workspace\StringCalculator\StringCalculator\bin\Debug\StringCalculator.exe
+C:\Users\developer\Desktop\workspace\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\Users\developer\Desktop\workspace\StringCalculator\StringCalculator\bin\Debug\nunit.framework.dll
+C:\Users\developer\Desktop\workspace\StringCalculator\StringCalculator\bin\Debug\nunit.framework.xml
+C:\Users\developer\Desktop\workspace\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
+C:\Users\developer\Desktop\workspace\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\workspace\StringCalculator\StringCalculator\obj\Debug\StringCalculator.exe
+C:\Users\developer\Desktop\workspace\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
